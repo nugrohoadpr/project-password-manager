@@ -1,5 +1,5 @@
 3. FITUR UTAMA
-4. 3.1 Autentikasi & Keamanan
+3.1 Autentikasi & Keamanan
 - Master Password: Satu password utama untuk mengakses semua data
 - Auto-Lock: Otomatis terkunci setelah periode inaktif
 - Enkripsi: AES-256 bit encryption untuk semua data
@@ -35,10 +35,12 @@
 - Fitur MFA
 - export import to another device
 
-4. Technical Specifications 
+4. Technical Specifications
 Technology Stack: 
-1.	Framework yang akan digunakan (Flutter) 
-2.	database (SQLite)
+- Framework yang akan digunakan (Flutter) 
+- database (SQLite)
+
+
 5. Timeline & Milestones Aplikasi Password Saver (7 Minggu)
 1.	Minggu 1: Persiapan dan Desain (4-10 November 2025)
 Apa yang dikerjakan	 : Menyelesaikan dokumen PRD (rencana produk), membuat sketsa tampilan aplikasi (wireframe) untuk semua halaman, membuat desain warna dan tampilan final untuk halaman utama.
@@ -73,5 +75,6 @@ Apa yang dikerjakan	: Test semua fitur dari awal sampai akhir, test keamanan apl
 Persiapan Launch	:Buat screenshot untuk Play Store, tulis deskripsi aplikasi, buat icon aplikasi, buat privacy policy dan terms of service, sign aplikasi untuk release, submit ke Play Store.
 Testing 	: Test dengan pengguna asli (beta testing), cek apakah ada crash atau error, cek kecepatan di device berbeda.
 Target Selesai	: Aplikasi siap diluncurkan, sudah disubmit ke Play Store, materi marketing siap
+
 
 
