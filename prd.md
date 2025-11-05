@@ -1,29 +1,34 @@
 3. FITUR UTAMA
-3.1 Autentikasi & Keamanan
-•	Master Password: Satu password utama untuk mengakses semua data
-•	Auto-Lock: Otomatis terkunci setelah periode inaktif
-•	Enkripsi: AES-256 bit encryption untuk semua data
+4. 3.1 Autentikasi & Keamanan
+- Master Password: Satu password utama untuk mengakses semua data
+- Auto-Lock: Otomatis terkunci setelah periode inaktif
+- Enkripsi: AES-256 bit encryption untuk semua data
+
 3.2 Password Management
-•	Password Vault: Penyimpanan password terorganisir
-•	Password Generator: Generator password kuat dengan customizable options
-•	Password Strength Checker: Analisis kekuatan password
-•	Duplicate Detection: Deteksi password yang digunakan berulang
-•	Secure Notes: Simpan catatan sensitif
+-Password Vault: Penyimpanan password terorganisir
+- Password Generator: Generator password kuat dengan customizable options
+- Password Strength Checker: Analisis kekuatan password
+- Duplicate Detection: Deteksi password yang digunakan berulang
+- Secure Notes: Simpan catatan sensitif
+  
 3.3 Item Types
-•	Login Credentials (username & password)
-•	Secure Notes
+- Login Credentials (username & password)
+- Secure Notes
+- 
 3.4 Search & Filter
-•	Quick Search dengan real-time results
-•	Filter berdasarkan kategori
-•	Recently Used items
-•	Favorites/Starred items
+- Quick Search dengan real-time results
+- Filter berdasarkan kategori
+- Recently Used items
+- Favorites/Starred items
+- 
 3.5 Security Features
-•	Weak Password Alert: Peringatan password lemah
-•	Reused Password Alert: Peringatan password yang dipakai berulang
+- Weak Password Alert: Peringatan password lemah
+- Reused Password Alert: Peringatan password yang dipakai berulang
+
 3.6 Backup & Sync
-•	Local Backup
-•	Import from other password managers
-•	Export data (encrypted)
+- Local Backup
+- Import from other password managers
+- Export data (encrypted)
 
 3.7 Fitur premium
 - Pambatasn 50 password, jika lebih bisa bayar
@@ -68,4 +73,5 @@ Apa yang dikerjakan	: Test semua fitur dari awal sampai akhir, test keamanan apl
 Persiapan Launch	:Buat screenshot untuk Play Store, tulis deskripsi aplikasi, buat icon aplikasi, buat privacy policy dan terms of service, sign aplikasi untuk release, submit ke Play Store.
 Testing 	: Test dengan pengguna asli (beta testing), cek apakah ada crash atau error, cek kecepatan di device berbeda.
 Target Selesai	: Aplikasi siap diluncurkan, sudah disubmit ke Play Store, materi marketing siap
+
 
